@@ -58,7 +58,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/bandrace/admin',
+    assetsPublicPath: '/B013/admin',
 
     /**
      * Source Maps
