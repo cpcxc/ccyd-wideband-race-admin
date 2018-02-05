@@ -16,9 +16,9 @@ module.exports = {
       //   pathRewrite: {"^/api" : ""}
       // }
       // "/api": "http://localhost:7001"
-      "/party": {
+      "/race": {
         target: "http://localhost:7001",
-        pathRewrite: {"^/party" : ""}
+        pathRewrite: {"^/race" : ""}
       }
     },
 
@@ -58,7 +58,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/party-admin',
+    assetsPublicPath: '/bandrace/admin',
 
     /**
      * Source Maps

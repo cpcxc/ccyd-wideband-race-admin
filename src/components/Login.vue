@@ -5,9 +5,9 @@
           <div class="top">
             <div class="header">
               <img alt="" class="logo" src="../assets/logo.svg" />
-              <span class="title">流动党员信息</span>
+              <span class="title">长春分公司员工宽带竞赛开</span>
             </div>
-            <p class="desc">管理当前完成登记的流动党员信息</p>
+            <p class="desc">管理当前完成提交的宽带办理信息</p>
           </div>
 		    	<el-form class="main" :model="loginForm" :rules="rules" ref="loginForm">
 						<el-form-item prop="username">
